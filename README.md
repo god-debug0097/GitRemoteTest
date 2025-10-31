@@ -1,2 +1,2 @@
-## name - Bhoumik Jain <br>
-## class - BT24CSE106
+### name - Bhoumik Jain <br>
+### class - BT24CSE106
